@@ -1,3 +1,5 @@
 High Priority:
 
 Be able to enter and convert RGB to ρɣβL code.
+
+Still working on code for ρɣβL conversion.
