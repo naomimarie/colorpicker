@@ -1,0 +1,3 @@
+High Priority:
+
+Be able to enter and convert RGB to ρɣβL code.
