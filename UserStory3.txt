@@ -1,0 +1,3 @@
+High Priority:
+
+Have a square display the current color according to what color code is entered
